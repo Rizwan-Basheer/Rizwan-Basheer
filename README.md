@@ -1,13 +1,4 @@
 - 👋 Hi, I’m @Rizwan-Basheer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... usmanbg50@gmail.com
-
-<!---
-Rizwan-Basheer/Rizwan-Basheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 I am a JavaScript developer and have experience working with React.js and Node.js. I have also worked with amazon web services using AWS CDK from CI/CD to Serverless applications.
 So far I have the following tools in my toolkit:
@@ -53,9 +44,8 @@ Other Tools:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 Reach Me Through:  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Rizwan-Basheer-347b5918b/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_kashifghafoor)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kashifghafoor140@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-bashir-a73685205/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](usmanbg50@gmail.com)
 
 
 ### :fire: My Stats :
